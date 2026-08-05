@@ -1,6 +1,6 @@
 <div align="center">
 
-# `md6ba`
+# `MDBA`
 
 ### Developer · Researcher · Analyst
 
