@@ -6,10 +6,6 @@
 
 > I write code, collect data, and analyze economic, cultural, and historical currents.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=md6ba&color=0A9396&style=flat-square)](https://komarev.com/ghpvc/?username=md6ba)
-[![GitHub Followers](https://img.shields.io/github/followers/md6ba?label=Follow&style=social)](https://github.com/md6ba)
-[![GitHub Repos](https://img.shields.io/github/repos/md6ba?label=Repos&style=flat-square)](https://github.com/md6ba?tab=repositories)
-
 </div>
 
 ---
