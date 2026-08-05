@@ -38,7 +38,6 @@ Python · C++ · SQL · Flask · Data · Visualization
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metanerd-0A9396?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -55,23 +54,9 @@ Python · C++ · SQL · Flask · Data · Visualization
 | 🏛️ **Historical** | Period studies, cause-effect chains, linking past to present |
 | 🔍 **Methodology** | Automated data gathering, reproducible pipelines, open-source tooling |
 
-## 📊 Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=md6ba&show_icons=true&theme=github_dark&hide_border=true&title_color=0A9396&icon_color=0A9396&text_color=CCCCCC&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md6ba&layout=compact&theme=github_dark&hide_border=true&title_color=0A9396&text_color=CCCCCC&bg_color=0D1117" />
-</div>
-
 ## 🚀 Projects
 
 > _Project list coming soon._
-
-## 📡 Connect
-
-<div align="left">
-  <!-- add your links here (X, blog, LinkedIn...) -->
-  <a href="https://github.com/md6ba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 ---
 
