@@ -1,10 +1,3 @@
-<!--
-  Profile README - md6ba
-  Theme: minimal dark + teal accent
-  All graphics come from free services (shields.io / github-readme-stats) and update live.
-  Change the accent color everywhere via the 0A9396 hex.
--->
-
 <div align="center">
 
 # `md6ba`
@@ -58,7 +51,6 @@ Python · Automation · Data · Web
 ## 📡 Connect
 
 <div align="left">
-  <!-- add your links here (X, blog, LinkedIn...) -->
   <a href="https://github.com/md6ba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
