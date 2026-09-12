@@ -22,7 +22,7 @@ $ focus
 - Historical analysis (linking past and present)
 
 $ stack
-Python · C++ · SQL · Flask · Data · Visualization
+Python · C++ · SQL · Flask · Data Visualization · Data Security
 ```
 
 ## 🛠️ Tech Stack
