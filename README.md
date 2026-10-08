@@ -57,8 +57,6 @@ Python · C++ · SQL · Flask · Data Visualization · Data Security
 - [hermes-bale-plugin](https://github.com/md6ba/hermes-bale-plugin) — Standalone Bale (Iranian messenger) gateway platform plugin for Hermes Agent
 - [sec_standards](https://github.com/md6ba/sec_standards) — Security Standards Knowledge Base — NIST, IETF, OWASP, CISA, ETSI, MITRE
 - [hermes-dashboard-plugin](https://github.com/md6ba/hermes-dashboard-plugin) — Local web control panel for Hermes Agent (chat, sessions, tools)
-- [PDashboard](https://github.com/md6ba/PDashboard) — Personal dashboard
-- [hermes-agent](https://github.com/md6ba/hermes-agent) — The agent that grows with you
 
 ### Other Projects
 
