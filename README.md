@@ -52,6 +52,8 @@ Python · C++ · SQL · Flask · Data Visualization · Data Security
 
 ## 🚀 Projects
 
+### Public Repositories
+
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
 | [hermes-bale-plugin](https://github.com/md6ba/hermes-bale-plugin) | Standalone Bale (Iranian messenger) gateway platform plugin for Hermes Agent | Python | ⭐ 4 |
@@ -59,6 +61,18 @@ Python · C++ · SQL · Flask · Data Visualization · Data Security
 | [hermes-dashboard-plugin](https://github.com/md6ba/hermes-dashboard-plugin) | Local web control panel for Hermes Agent (chat, sessions, tools) | HTML | ⭐ 0 |
 | [PDashboard](https://github.com/md6ba/PDashboard) | Personal dashboard | HTML | ⭐ 0 |
 | [hermes-agent](https://github.com/md6ba/hermes-agent) | The agent that grows with you | Python | ⭐ 0 |
+
+### Other Projects
+
+Several additional projects are maintained as private repositories, including:
+
+- **NexProof** — Blockchain-based proof and verification system
+- **Strategic Cockpit** — Economic intelligence dashboard (V3.5)
+- **Intel Dashboard** — Automated data collection and analysis pipeline
+- **Parsian CRM** — Customer relationship management system
+- **Cloudflare Tunnel** — Secure local server exposure
+
+> These projects are available upon request for collaboration or demonstration purposes.
 
 ---
 
