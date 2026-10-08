@@ -52,7 +52,20 @@ Python · C++ · SQL · Flask · Data Visualization · Data Security
 
 ## 🚀 Projects
 
-> _Project list coming soon._
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [hermes-bale-plugin](https://github.com/md6ba/hermes-bale-plugin) | Standalone Bale (Iranian messenger) gateway platform plugin for Hermes Agent | Python | ⭐ 4 |
+| [sec_standards](https://github.com/md6ba/sec_standards) | Security Standards Knowledge Base — NIST, IETF, OWASP, CISA, ETSI, MITRE | HTML | ⭐ 1 |
+| [hermes-dashboard-plugin](https://github.com/md6ba/hermes-dashboard-plugin) | Local web control panel for Hermes Agent (chat, sessions, tools) | HTML | ⭐ 0 |
+| [PDashboard](https://github.com/md6ba/PDashboard) | Personal dashboard | HTML | ⭐ 0 |
+| [hermes-agent](https://github.com/md6ba/hermes-agent) | The agent that grows with you | Python | ⭐ 0 |
+
+---
+
+## 🔗 Connect
+
+- [Telegram](https://t.me/md6ba)
+- [LinkedIn](https://www.linkedin.com/in/md6ba)
 
 ---
 
