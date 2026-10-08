@@ -64,7 +64,7 @@ Python · C++ · SQL · Flask · Data Visualization · Data Security
 
 Several additional projects are maintained as private repositories, including:
 
-- **QFort** — QFort is a private-network security architecture designed for the quantum era (V2.1)
+- **QFort** — A private-network security architecture designed for the quantum era (V2.1)
 - **NexProof** — Blockchain-based proof and verification system
 - **Strategic Cockpit** — Economic intelligence dashboard (V3.5)
 - **Intel Dashboard** — Automated data collection and analysis pipeline
