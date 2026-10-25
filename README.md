@@ -82,9 +82,9 @@ Several additional projects are maintained as private repositories, including:
 
 ## 💸 Support / Donate
 
-If you find my work useful, you can support it on Ethereum / Polygon:
+If you find my work useful, you can support it on EVMs:
 
-**`0x839eF34EB4CA948748A4a4180B39d6323e0E97a8`**
+**`0xBaba12000325316B57F27d6253EcF830aCE6903e`**
 
 <sub>Ethereum (ERC-20) · Polygon (POL)</sub>
 
